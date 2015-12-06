@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.class
+manifest.mf
+nbproject/private/private.xml
+*.properties
+nbproject/project.xml
+*.netbeans_update_resources
+build/classes/.netbeans_automatic_build
+build.xml
+nbproject/build-impl.xml
